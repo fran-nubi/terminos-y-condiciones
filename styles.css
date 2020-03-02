@@ -88,7 +88,7 @@ margin-top: 0.5em;
 }
 
 hr {
-visibility: hidden;
+border: 0.5px solid #DFDFF0;
 margin: 1em 0;
 }
 
@@ -124,13 +124,14 @@ max-width: 960px;
 }
 
 .contenido {
-max-width: 1220px;
+max-width: 960px;
 width: 100%;
 margin: auto;
 padding: 2em;
 border-radius: 16px;
 background-color: #fff;
 box-shadow: 0px 10px 24px rgba(10,20,80,0.08);
+margin-bottom: 2em;
 }
 
 .logo-nubicuenta {
@@ -201,6 +202,7 @@ margin-top: 1.1em;
 .contenido {
 border-radius: 0px;
 padding: 1em;
+margin-bottom: 1em;
 }
     
 .span-intro {
@@ -208,6 +210,6 @@ margin: 2em auto 0em;
 }
     
 .footer {
-padding: 0.7em 0;
+padding: 0.6em;
 }
 }
