@@ -145,6 +145,10 @@ margin: 0 auto;
 position: relative
 }
 
+.table {
+margin-top: 1em;
+}
+
 .logo-nubi {
 width: 160px;
 max-width: 90%;
